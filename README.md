@@ -34,10 +34,6 @@ Output: Pandas-ready .csv file
 
 *Direct questions regarding mat2csv to michael.depass@ub.edu*
 
-### Experimental Design at UB
-*Direct any questions regarding the general experimental design to ignasi.cos@ub.edu*
-
-
 ### Example Output
 Example decisions plotted for Horizons 0 and 1 of the Consequential task:
 | Horizon 1                           |                           Horizon 2 |
@@ -47,3 +43,6 @@ Example decisions plotted for Horizons 0 and 1 of the Consequential task:
 
 Example Pandas DataFrame after conversion to .csv:
 ![](./img/dataframe.png)
+
+### Experimental Design at UB
+*Direct any questions regarding the experimental design to ignasi.cos@ub.edu*
