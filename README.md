@@ -1,4 +1,4 @@
-# Behavioral Analysis Preprocessing Pipeline
+# Behavioral Analysis Preprocessing Pipeline (COREDEM WP2.9)
 Authors: Gloria Cecchini (MATLAB preprocessing scripts), Michael DePass (.mat to .csv Python script), Ignasi Cos (Experimental Design)
 ## Contents
 1. MySQL database backup file (.sql) 
