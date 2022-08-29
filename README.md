@@ -34,6 +34,15 @@ Output: Pandas-ready .csv file
 
 *Direct questions regarding mat2csv to michael.depass@ub.edu*
 
+### Pipeline Flowchart
+```mermaid
+	flowchart LR
+		A(.bhv2) -->|input| B{Main.m};
+		B -->|output| C(.mat);
+		C -->|input| D{mat2csv.py};
+		D -->|output| E(.csv);
+```
+All processed data is available in the .mat file(s) exported by Main.m. If you wish to work with the data in another language, we recommend converting the .mat file(s) to a .csv file via mat2csv.py. 
 ### Example Output
 Example decisions plotted for Horizons 0 and 1 of the Consequential task:
 | Horizon 1                           |                           Horizon 2 |
